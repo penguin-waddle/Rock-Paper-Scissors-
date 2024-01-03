@@ -1,7 +1,18 @@
 # Rock-Paper-Scissors - A Brain Training Game
 
 ## Overview
-Rock-Paper-Scissors is a classic brain training game developed as part of the '100 Days of SwiftUI' course. This project focuses on challenging players to win or lose at the traditional game of scissors, paper, rock, enhancing decision-making skills under pressure.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/Rock-Paper-Scissors/assets/123434744/a288652d-f879-464d-9f98-8f40d148a816" alt="Rock Paper Scissors App Demo" width="300" />
+    </td>
+    <td>
+      Rock-Paper-Scissors is a classic brain training game developed as part of the '100 Days of SwiftUI' course. This project focuses on challenging players to win or lose at the traditional game of scissors, paper, rock, enhancing decision-making skills under pressure.
+    <br><br>
+<em><b>Please Note:</b> This project demo was created and recorded in Swift Playgrounds on iPad, leading to an aspect ratio that may differ from the latest iPhone models.</em>
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Engaging Gameplay**: Players must choose between Rock, Paper, or Scissors and aim to win or lose based on the app's prompt.
@@ -26,3 +37,5 @@ Rock-Paper-Scissors is a classic brain training game developed as part of the '1
 Note: This app was a challenge project from the "100 Days of SwiftUI" course, designed and implemented by me as a part of my iOS development learning journey.
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
