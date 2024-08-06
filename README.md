@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/penguin-waddle/Rock-Paper-Scissors/assets/123434744/a288652d-f879-464d-9f98-8f40d148a816" alt="Rock Paper Scissors App Demo" width="300" />
+      <img src="https://github.com/penguin-waddle/Rock-Paper-Scissors/assets/123434744/a288652d-f879-464d-9f98-8f40d148a816" alt="Rock Paper Scissors App Demo" width="2100" />
     </td>
     <td>
       Rock-Paper-Scissors is a classic brain training game developed as part of the '100 Days of SwiftUI' course. This project focuses on challenging players to win or lose at the traditional game of scissors, paper, rock, enhancing decision-making skills under pressure.
